@@ -6,7 +6,7 @@ My name's Jamie. I like all sorts of things, especially as they relate to design
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning React, React Native, and Flutter
+- 🌱 I’m currently learning learning React Native, Flutter, & Svelte
 - 👯 I’m looking to collaborate on anything really, especially new ways to automate or integrate
 - 💬 Ask me about anyhing web development and design related, bikepacking, Japanese, cooking, or drumming
 - 📫 How to reach me: https://htmyell.com/contact
