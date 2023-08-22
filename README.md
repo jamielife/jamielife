@@ -1,12 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 My name's Jamie. I like all sorts of things, especially as they relate to design, development, photography, and videography. I enjoy learning new languages be it spoken or typed. I also like making music and riding my bike. 
-<!--
-**jamielife/jamielife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning learning React Native, Flutter, & Svelte
+- 🙋🏻 I'm a full-stack engineer with over 20 years of web design, development, and DevOps experience
+- ⌨️ I’m currently working on a creating TypeScript/React Native/OpenGraph Language App
+- 🌱 I’m currently learning learning Flutter, & Svelte
 - 👯 I’m looking to collaborate on anything really, especially new ways to automate or integrate
 - 💬 Ask me about anyhing web development and design related, bikepacking, Japanese, cooking, or drumming
 - 📫 How to reach me: https://htmyell.com/contact
