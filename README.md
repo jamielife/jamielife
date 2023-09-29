@@ -1,4 +1,5 @@
-# Hi there <img width="30px" height="30px" src="https://jamietaylor.me/static/media/Hi.gif" />
+**Hi there! &nbsp;<img height="20px" src="https://jamietaylor.me/static/media/Hi.gif" />**
+
 My name's Jamie. I like all sorts of things, especially as they relate to design, development, photography, and videography. I enjoy learning new languages be it spoken or typed. I also like making music and riding my bike. 
 
 - 🙋🏻 I'm a full-stack engineer with over 20 years of web design, development, and DevOps experience
