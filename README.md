@@ -19,7 +19,7 @@ My name's Jamie. I like all sorts of things, especially as they relate to design
 
 ## My Stats
 <a href="#my-stats"><img height=180px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamielife&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000" alt="My GitHub Stats" />&nbsp;
-<img height=180px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&bg_color=00000000&layout=compact&theme=tokyonight&count_private=true&show_icons=true" alt="My GitHub Stats" /></a>
+<img height=180px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamielife&bg_color=00000000&layout=compact&theme=tokyonight&count_private=true&show_icons=true" alt="My GitHub Stats" /></a>
 
 ## StackOverflow
 <a style="padding: 1rem"  style="padding-top: 20px" target="_blank" href="https://stackoverflow.com/users/318145/jamie"><img align="left" src="https://stackexchange.com/users/flair/123593.png?theme=dark" width="208" height="58" alt="profile for Jamie on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jamie on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
