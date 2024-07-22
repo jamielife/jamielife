@@ -1,4 +1,4 @@
-**Hi there! &nbsp;<img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />**
+**Hi there! &nbsp;<img height="20px" width=”20” src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />**
 
 My name's Jamie. I like all sorts of things, especially as they relate to design, development, photography, and videography. I enjoy learning new languages be it spoken or typed. I also like making music and riding my bike. 
 
