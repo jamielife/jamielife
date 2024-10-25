@@ -4,7 +4,7 @@ My name's Jamie. I like all sorts of things, especially as they relate to design
 
 - 🙋🏻 I'm a full-stack engineer with over 20 years of web design, development, and DevOps experience
 - ⌨️ I’m currently working on a creating TypeScript/React Native/OpenGraph Language App
-- 🌱 I’m currently learning learning Go & Rust
+- 🌱 I’m currently learning learning Go
 - 👯 I’m looking to collaborate on anything really, especially new ways to automate or integrate
 - 💬 Ask me about anyhing web development and design related, bikepacking, Japanese, cooking, or drumming
 - 📫 How to reach me: https://htmyell.com/contact
