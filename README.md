@@ -20,7 +20,7 @@ My name's Jamie. I like all sorts of things, especially as they relate to design
 
 
 ## My Stats
- ![Jamie's github stats](https://github-stats-topaz-beta.vercel.app/api?username=jamielife&show_icons=true&show_icons=true&theme=tokyonight&bg_color=00000000&card_width=400&layout=compact&line_height=24) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jamielife&bg_color=00000000&layout=compact&theme=tokyonight&langs_count=8&card_width=400&exclude_repo=LemonadeProject,htmyell_old)
+ ![Jamie's github stats](https://github-stats-topaz-beta.vercel.app/api?username=jamielife&show_icons=true&show_icons=true&theme=tokyonight&bg_color=00000000&card_width=380&layout=compact&line_height=24) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jamielife&bg_color=00000000&layout=compact&theme=tokyonight&langs_count=8&card_width=380&exclude_repo=LemonadeProject,htmyell_old)
 
 ## StackOverflow
 <a style="padding: 1rem" style="padding-top: 20px" target="_blank" href="https://stackoverflow.com/users/318145/jamie"><img align="left" src="https://stackexchange.com/users/flair/123593.png?theme=dark" alt="profile for Jamie on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jamie on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
